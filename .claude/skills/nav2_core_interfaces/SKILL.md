@@ -1,3 +1,8 @@
+---
+name: nav2_core_interfaces
+description: Reference for the nav2_core plugin base classes — Controller, GlobalPlanner, Smoother, GoalChecker, ProgressChecker, Behavior — and their exception classes. Trigger when the user implements or reasons about a custom Nav 2 plugin interface.
+---
+
 # Nav2 Core Plugin Interfaces
 
 Source: `~/nav2_ws/src/navigation2/nav2_core/include/nav2_core/`

@@ -1,3 +1,8 @@
+---
+name: nav2_controllers
+description: Reference for the Nav 2 Controller Server and its controller plugins — DWB and its critics, MPPI and its critics, Regulated Pure Pursuit, Graceful, and Rotation Shim — with parameters and a comparison matrix. Trigger when the user selects, configures, or tunes a Nav 2 local controller.
+---
+
 # Nav2 Controller Plugins
 
 Source: `~/nav2_ws/src/navigation2/`

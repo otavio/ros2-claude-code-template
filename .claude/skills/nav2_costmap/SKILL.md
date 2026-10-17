@@ -1,3 +1,8 @@
+---
+name: nav2_costmap
+description: Reference for Nav 2 Costmap2D — layered costmap architecture, cost values, the Static, Obstacle, Voxel, Inflation, Range, and Denoise layers, costmap filters, and typical configurations. Trigger when the user configures or debugs local/global costmaps or writes a costmap layer.
+---
+
 # Nav2 Costmap2D
 
 Source: `~/nav2_ws/src/navigation2/nav2_costmap_2d/`

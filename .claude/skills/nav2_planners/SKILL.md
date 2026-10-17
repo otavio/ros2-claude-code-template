@@ -1,3 +1,8 @@
+---
+name: nav2_planners
+description: Reference for the Nav 2 Planner Server and its global planner plugins — NavFn, the SMAC suite (2D, Hybrid-A*, Lattice), Theta*, and the graph-based Route Server — with a comparison table. Trigger when the user selects, configures, or tunes a Nav 2 global planner.
+---
+
 # Nav2 Planner Plugins
 
 Source: `~/nav2_ws/src/navigation2/`

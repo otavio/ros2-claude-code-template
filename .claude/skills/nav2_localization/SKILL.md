@@ -1,3 +1,8 @@
+---
+name: nav2_localization
+description: Reference for Nav 2 localization and maps — AMCL, Map Server, Map Saver, the Costmap Filter Info Server, the Vector Object Server, and the TF frame tree. Trigger when the user configures localization, loads or saves maps, or debugs map/odom/base_link transforms.
+---
+
 # Nav2 Localization & Map Server
 
 Source: `~/nav2_ws/src/navigation2/nav2_amcl/` and `nav2_map_server/`

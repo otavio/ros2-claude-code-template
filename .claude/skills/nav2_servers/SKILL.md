@@ -1,3 +1,8 @@
+---
+name: nav2_servers
+description: Reference for the Nav 2 server nodes — Lifecycle Manager, Velocity Smoother, Collision Monitor, Smoother Server, Waypoint Follower, Docking and Following servers, the Simple Commander Python API, and the Loopback Simulator. Trigger when the user configures, launches, or scripts the Nav 2 stack.
+---
+
 # Nav2 Server Nodes
 
 Source: `~/nav2_ws/src/navigation2/`

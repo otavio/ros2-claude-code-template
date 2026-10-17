@@ -1,3 +1,8 @@
+---
+name: nav2_behavior_tree
+description: Reference for the Nav 2 BT Navigator — the 82 built-in behavior tree nodes, the 15 default BT XML trees, standard tree structure, and recovery behavior plugins. Trigger when the user designs, edits, or debugs a Nav 2 behavior tree or recovery behavior.
+---
+
 # Nav2 Behavior Tree Nodes & Behaviors
 
 Source: `~/nav2_ws/src/navigation2/nav2_behavior_tree/` and `nav2_bt_navigator/` and `nav2_behaviors/`
